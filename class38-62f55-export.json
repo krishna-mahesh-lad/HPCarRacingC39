@@ -1,0 +1,22 @@
+{
+  "gameState" : 0,
+  "playerCount" : 0,
+  "players" : {
+    "player1" : {
+      "distance" : 0,
+      "name" : "Luna"
+    },
+    "player2" : {
+      "distance" : 4360,
+      "name" : "Cho"
+    },
+    "player3" : {
+      "distance" : 0,
+      "name" : "Myrtle"
+    },
+    "player4" : {
+      "distance" : 0,
+      "name" : "Marcus"
+    }
+  }
+}
